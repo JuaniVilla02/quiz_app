@@ -1,5 +1,5 @@
 # Quiz app
-The attached files **DO NOT** work as a standalone project, it is just the code I wrote (lib folder).  
+The attached files **DO NOT** work as a standalone project, it is just the code I wrote (lib folder and pubspecs).  
 
 To give the app a try:
 -  [Download the Flutter SDK and Android Studio](https://docs.flutter.dev/get-started/install).
